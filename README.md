@@ -20,6 +20,6 @@ Folder containing the scalable vector graphics format for Figures 2-6 of the man
 
 To cite the analysis from the paper please use the following citation:
 
-UPDATE LATER
+UPDATE AFTER PUBLICATION
 
 
