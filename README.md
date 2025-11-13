@@ -16,4 +16,10 @@ Folder containing python scripts containing functions that are imported and used
 
 Folder containing the scalable vector graphics format for Figures 2-6 of the manuscript, and the supplementary table. 
 
+## Citation 
+
+To cite the analysis from the paper please use the following citation:
+
+UPDATE LATER
+
 
