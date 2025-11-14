@@ -2,6 +2,10 @@
 
 For questions on this code and analysis, please contact the corresponding author on the publication. Manuscript and corresponding author will be added here after publication acceptance.
 
+## BGR Access Request 
+
+To request access to the BGR data utilized in this analysis, please click on the `COLLABORATE` tab on the [National Brain Gene Registry Site](https://braingeneregistry.wustl.edu/faq/). 
+
 ## Repository Data
 
 ### MYT1L_Figure.ipynb
